@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Dự án minh họa **lập trình JPA (Java Persistence API)** trong môn học **Lập trình Java nâng cao**, triển khai theo mô hình **Servlet/JSP + JPA (Hibernate) + SQL Server**.  
+Dự án minh họa **Lập trình JPA (Java Persistence API)** trong môn học **Lập trình Java nâng cao**, triển khai theo mô hình **Servlet/JSP + JPA (Hibernate) + SQL Server**.  
 Website hỗ trợ CRUD **Sinh viên – Khóa học** và quản lý **đăng ký khóa học (Many-to-Many)** qua bảng trung gian `Enrollments`.
 
 ---
