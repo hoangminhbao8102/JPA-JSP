@@ -1,6 +1,5 @@
 # JPA-JSP
 
-[![Build Status](https://github.com/hoangminhbao8102/JPA-JSP/actions/workflows/maven.yml/badge.svg)](https://github.com/hoangminhbao8102/JPA-JSP/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Dự án minh họa **lập trình JPA (Java Persistence API)** trong môn học **Lập trình Java nâng cao**, triển khai theo mô hình **Servlet/JSP + JPA (Hibernate) + SQL Server**.  
@@ -132,15 +131,15 @@ http://localhost:8080/JPAWebDemo/enrollments
 ---
 
 ## Giao diện mẫu
-- Danh sách Sinh viên
+- Danh sách Sinh viên<br>
 ![Student List](screenshots/student-list.png)
-- Form Thêm Sinh viên
+- Form Thêm Sinh viên<br>
 ![Student Add](screenshots/student-add.png)
-- Form Chỉnh sửa Sinh viên
+- Form Chỉnh sửa Sinh viên<br>
 ![Student Edit](screenshots/student-edit.png)
-- Danh sách Khóa học
+- Danh sách Khóa học<br>
 ![Course List](screenshots/course-list.png)
-- Đăng ký Khóa học
+- Đăng ký Khóa học<br>
 ![Enrollment List](screenshots/enrollment-list.png)
 
 ---
